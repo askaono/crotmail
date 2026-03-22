@@ -10,7 +10,7 @@
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
-    "@vueuse/core": "^10.7.0",
+    "@vueuse/core": "^14.2.1",
     "lucide-vue-next": "^0.344.0",
     "pinia": "^2.1.0",
     "vue": "^3.4.0",
